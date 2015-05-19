@@ -1,0 +1,8 @@
+﻿Der Buildvorgang wurde am 19.05.2015 16:52:28 gestartet.
+     1>Projekt "C:\mxosource_all_trunks\mxosource\mxosource-Trunk.r2\Source\Reality10.vcxproj" auf Knoten "2", build Ziel(e).
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Platforms\Win32\Microsoft.Cpp.Win32.Targets(511,5): error MSB8008: Das angegebene Plattformtoolset (v110) ist nicht installiert oder ungültig. Stellen Sie sicher, dass ein unterstützter PlatformToolset-Wert ausgewählt wurde.
+     1>Die Erstellung des Projekts "C:\mxosource_all_trunks\mxosource\mxosource-Trunk.r2\Source\Reality10.vcxproj" ist abgeschlossen, build Ziel(e) -- FEHLER.
+
+Fehler beim Erstellen
+
+Verstrichene Zeit 00:00:00.75
